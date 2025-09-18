@@ -1,0 +1,1 @@
+This folder contains cloud demo projects demonstrating deployments and services on major cloud platforms, including AWS, Azure, and GCP. Examples include serverless functions, virtual machines, and cloud infrastructure setups.
