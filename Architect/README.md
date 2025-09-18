@@ -1,0 +1,1 @@
+This folder contains software architecture demo projects, demonstrating best practices such as SOLID principles, CQRS, design patterns, and Clean Architecture. Example implementations showcase maintainable and scalable application design.
